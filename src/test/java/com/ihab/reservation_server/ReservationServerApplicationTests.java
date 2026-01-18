@@ -1,10 +1,10 @@
-package com.ihab.trip_reservation_serve;
+package com.ihab.reservation_server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TripReservationServeApplicationTests {
+class ReservationServerApplicationTests {
 
 	@Test
 	void contextLoads() {

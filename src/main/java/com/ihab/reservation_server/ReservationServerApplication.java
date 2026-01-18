@@ -1,13 +1,13 @@
-package com.ihab.trip_reservation_serve;
+package com.ihab.reservation_server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TripReservationServeApplication {
+public class ReservationServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TripReservationServeApplication.class, args);
+		SpringApplication.run(ReservationServerApplication.class, args);
 	}
 
 }
